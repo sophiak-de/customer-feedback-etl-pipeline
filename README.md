@@ -75,7 +75,7 @@ boto3, SQLAlchemy, mysql-connector-python
 
 ## Dashboard
 
-![Power BI Dashboard](dashboard-screenshot.png)
+![Power BI Dashboard](PowerBI-Dashboard.png)
 *Power BI dashboard showing average rating by product, revenue by category, and total 
 feedback count, with a category filter.*
 
